@@ -1,3 +1,5 @@
+# Author: B. Roshini
+# USN: 1BM23AI040
 class MyQueue(object):
     def __init__(self):
         self.q1 = []
