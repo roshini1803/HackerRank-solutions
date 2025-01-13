@@ -5,3 +5,6 @@ This repository contains solutions to the following HackerRank challenges:
 - Game of Two Stacks
 
 Each solution is implemented in Python. 
+##Author
+- Name: B. Roshini
+- USN: 1BM23AI040
