@@ -1,3 +1,5 @@
+#Author: B. Roshini
+# USN: 1BM23AI040
 #!/bin/python3
 
 import math
